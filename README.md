@@ -42,6 +42,7 @@ Evaluation Metrics
    ```bash
    git clone https://github.com/your-username/your-repository-name.git
 2. Open the notebook:
+   ```bash
    jupyter notebook Martyniuk_Madro_Sephora_Project.ipynb
 
 ### 👤 Authors
