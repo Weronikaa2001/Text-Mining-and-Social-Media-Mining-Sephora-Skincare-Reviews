@@ -8,7 +8,7 @@ The project follows a structured data science workflow, including data explorati
 modeling and final evaluation.
 
 ### 📂 Project Structure
-├── Martyniuk_Madro_Sephora_Project.ipynb
+├── Martyniuk_Madro_Sephora_Project.ipynb  
 ├── README.md
 
 ### 🧪 Methodology
